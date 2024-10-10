@@ -1,0 +1,60 @@
+.container {
+  text-align: center;
+  margin: 20px;
+  background-color: #f9f9f9; 
+  padding: 20px;
+  border-radius: 10px; 
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.input-group {
+  margin-bottom: 20px; 
+}
+
+label {
+  display: block; 
+  font-size: 18px; 
+  margin-bottom: 5px; 
+}
+
+input, select {
+  padding: 10px;
+  font-size: 16px;
+  width: calc(50% - 22px); 
+  margin-right: 10px; 
+}
+
+input {
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+}
+
+select {
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+}
+
+.result-group {
+  margin-top: 20px; 
+}
+
+#result {
+  font-size: 24px; 
+  font-weight: bold;
+  margin-top: 5px; 
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff; 
+  color: white; 
+  border: none; 
+  border-radius: 5px;
+  cursor: pointer; 
+}
+
+button:hover {
+  background-color: #0056b3; 
+}
+  
